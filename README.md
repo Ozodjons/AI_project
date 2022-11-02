@@ -71,3 +71,14 @@
 • Concluding remarks on output units and regression problems<br/>
 <br/>
 
+### [Week-10](Week10_12190259.ipynb) | [Week-10, pt-2](Week10_2_12190259.ipynb): <br/>
+#### Deeper CNNs and Pretrained Models <br/>
+• VGGNet<br/>
+• GoogLeNet<br/>
+• ResNet<br/>
+• Transfer Learning<br/>
+• Data Augmentation as a Regularization Technique<br/>
+• Mistakes made by CNNs<br/>
+• Reducing parameters with Depthwise Separable Convolution<br/>
+• Striking the right network design balance with EfficientNet<br/>
+<br/>
