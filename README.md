@@ -85,3 +85,11 @@
 
 
 ### [Week-11](Week11_12190259.ipynb)
+• Limitations of Feedforward Networks<br/>
+• Recurrent Neural Networks<br/>
+• Mathematical Representation of a Recurrent layer<br/>
+• Combining layers into an RNN<br/>
+• Alternative veiw of RNN and Unrolling in Time<br/>
+• Backpropagation Through Time<br/>
+• Programming Example: Forecasting book sales<br/>
+<br/>
