@@ -82,3 +82,6 @@
 • Reducing parameters with Depthwise Separable Convolution<br/>
 • Striking the right network design balance with EfficientNet<br/>
 <br/>
+
+
+### [Week-10](Week11_12190259.ipynb)
